@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI_DB", "ITI_DB.csproj", "{96EA0BC6-18FB-4BC5-BE5B-B1A5E2A62AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EA0BC6-18FB-4BC5-BE5B-B1A5E2A62AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EA0BC6-18FB-4BC5-BE5B-B1A5E2A62AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EA0BC6-18FB-4BC5-BE5B-B1A5E2A62AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EA0BC6-18FB-4BC5-BE5B-B1A5E2A62AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3874AE96-6DAE-408E-88E9-AEE0BFBA073C}
+	EndGlobalSection
+EndGlobal
